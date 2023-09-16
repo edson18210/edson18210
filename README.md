@@ -1,5 +1,5 @@
-
 <div>
-<h1>Ola!</h1>
-<p>Meu nome é Edson</p>
+  Hi, My name is Edson.
+  I'm a Java student
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
