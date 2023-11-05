@@ -1,4 +1,5 @@
-<div>Ola, Meu nome é Edson.</div>
-<div>Atualmente tenho 12 anos.</div>
-<div>Pretendo me tornar um desenvolvedor backend.</div>
+<div>Ola, meu nome é Edson.</div>
 
+<div>Atualmente estou estudando</div>
+<div><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></div>
+<div></div>
