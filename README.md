@@ -7,7 +7,7 @@
   Estou me divertindo muito com c fazendo projetos basicos por enquanto mas mesmo assim é mt legal.
   Essa linguagem é incrivel!
 
-# 📖Linguagens que tenho insterrese
+# 👨‍💻Linguagens que tenho insterrese
 
 <div style="display: flex">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
