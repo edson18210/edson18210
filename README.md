@@ -2,6 +2,10 @@
 
    Ola, Meu nome é Edson.<br>Tenho atualmente 12 anos.<br>E quero me tornar um desenvolvedor de software futuramente.
    
+# Mais...
+
+  Estou me divertindo muito com c fazendo projetos basicos por enquanto mas mesmo assim é mt legal.
+  Essa linguagem é incrivel!
 
 # Linguagens que tenho insterrese
 
