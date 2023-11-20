@@ -4,7 +4,7 @@
    
 # 📖Mais...
 
-  Estou me divertindo muito com c fazendo projetos basicos por enquanto mas mesmo assim é mt legal.
+  Estou me divertindo muito com c/cpp fazendo projetos basicos por enquanto mas mesmo assim é mt legal.
   Essa linguagem é incrivel!
 
 # 👨‍💻Linguagens que tenho insterrese
